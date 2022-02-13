@@ -10,5 +10,3 @@ To run this program:
 * Download sketch_211103a.pde
 * Go to File>Open and open sketch_211103a.pde.
 * To Run click on the play button or go to Sketch>Run. 
-
-[Winner of Code a Rangoli competition](https://www.instagram.com/p/CV-S9TyvuKl/)

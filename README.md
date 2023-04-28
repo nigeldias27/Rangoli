@@ -1,5 +1,5 @@
 # Rangoli
-![alt text](http://raw.githubusercontent.com/nigeldias27/Rangoli/main/rangoli.PNG)
+![alt text](./rangoli.PNG)
 
 Program which creates this design on running.
 ## Steps to run this program
